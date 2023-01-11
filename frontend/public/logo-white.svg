@@ -1,14 +1,15 @@
-<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="mask0_215_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="6" y="1" width="138" height="147">
-<rect width="53.7386" height="53.7352" rx="6" transform="matrix(0.838693 -0.544605 0 1 78.5773 96.225)" fill="#D9D9D9"/>
-<rect width="53.7427" height="53.7394" rx="6" transform="matrix(0.831492 0.555536 0 1 26.4082 66.4046)" fill="#D9D9D9"/>
-<rect width="35.1817" height="35.428" rx="5" transform="matrix(0.837697 0.546135 -0.846721 0.532037 75.1981 52.3116)" fill="#D9D9D9"/>
-<rect width="15.7433" height="83.7208" rx="5" transform="matrix(0.837675 0.546169 -0.8467 0.53207 75.2964 0)" fill="#D9D9D9"/>
-<rect width="83.8977" height="15.8158" rx="5" transform="matrix(0.837675 0.546169 -0.8467 0.53207 75.2964 0)" fill="#D9D9D9"/>
-<rect width="59.5556" height="15.815" rx="5" transform="matrix(0.837697 0.546135 -0.846721 0.532037 75.1373 26.1972)" fill="#D9D9D9"/>
-<rect width="15.8792" height="59.4387" rx="5" transform="matrix(0.837697 0.546135 -0.846721 0.532037 75.1215 26.2113)" fill="#D9D9D9"/>
-</mask>
-<g mask="url(#mask0_215_2)">
-<rect width="142.38" height="138.583" transform="matrix(0.707138 0.707075 -0.707138 0.707075 73.3271 -28.174)" fill="white" fill-opacity="0.15"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="150.000000pt" height="150.000000pt" viewBox="0 0 150.000000 150.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,150.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M164 783 c-10 -10 -21 -18 -25 -18 -15 0 -20 -14 -21 -61 0 -40 4
+-51 26 -71 62 -53 166 -9 166 69 0 41 -6 50 -50 77 -43 26 -73 27 -96 4z m93
+-29 c20 -20 24 -31 19 -57 -4 -17 -13 -38 -21 -46 -18 -18 -69 -19 -89 -1 -24
+19 -21 85 6 110 29 27 54 25 85 -6z"/>
 </g>
 </svg>

@@ -44,7 +44,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           <Link href="/" style={{ display: 'flex', alignItems: 'center' }}>
             <img src="/logo-w.png" width="50" />
             <span style={{ fontSize: 36, marginLeft: 6 }}>
-              dat
+              tag
             </span>
           </Link>
           <div style={{ flex: 1 }} />
